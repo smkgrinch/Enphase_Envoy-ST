@@ -1,2 +1,2 @@
-# Enphase_Envoy-ST
-SmartAPP and Device Handlers for the Enphase Envoy Solar System for SmartThings
+# SmartThings_grinch
+SmartThings repository for SmartAPP and Device Handlers.
